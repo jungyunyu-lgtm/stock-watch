@@ -1,5 +1,7 @@
 {
-  "sold_out": false,
-  "checked_at": "2026-10-14 21:22",
-  "matched": []
+  "sold_out": true,
+  "checked_at": "2026-10-14 22:06",
+  "matched": [
+    "품절"
+  ]
 }
